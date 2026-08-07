@@ -1,19 +1,19 @@
 # ecommerce-sales-performance-analytics
 Interactive Power BI dashboard analyzing e-commerce sales performance using data modeling, DAX, and KPI reporting to support data-driven business decisions.
 
-Project Overview
+# Project Overview
 
 This project is an interactive Business Intelligence dashboard designed to analyze the sales performance of an e-commerce business. It transforms raw transactional data into meaningful insights that help management monitor revenue, profitability, customer behavior, and product performance for data-driven decision-making.
 
-Business Problem
+# Business Problem
 
 E-commerce businesses generate thousands of sales transactions across multiple products, regions, customer segments, and sales channels. Without effective analytics, it is difficult to identify high-performing products, monitor profitability, understand customer purchasing patterns, and make informed strategic decisions.
 
-Solution
+# Solution
 
 Developed an interactive Power BI dashboard that consolidates sales data into a centralized reporting solution, enabling stakeholders to monitor key performance indicators (KPIs), analyze trends, and identify growth opportunities through dynamic visualizations and drill-through analysis.
 
-Key Features
+# Key Features
 Executive KPI dashboard
 Sales trend analysis
 Revenue and profit analysis
@@ -37,7 +37,7 @@ Top Categories
 Regional Performance
 Business Insights
 
-The dashboard enables business users to:
+# The dashboard enables business users to:
 
 Identify best-selling and underperforming products.
 Monitor sales and profitability trends over time.
@@ -62,6 +62,6 @@ Dashboard Development
 Data Visualization
 Business Analytics
 Performance Reporting
-Outcome
+# Outcome
 
 The dashboard provides business stakeholders with a comprehensive view of sales performance, enabling faster, data-driven decision-making through interactive reporting and actionable business insights.
