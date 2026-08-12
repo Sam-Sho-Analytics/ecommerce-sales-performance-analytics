@@ -3,7 +3,7 @@ Interactive Power BI dashboard analyzing e-commerce sales performance using data
 
 ## Dashboard Preview
 
-### Sales Performances across Categories
+### Sales Performances across Categories( by Regions/Regional managers,by products/Sub catergories, by time periods.
 
 ![sales Analysis ](Screenshot/Sales_analysis.jpg)
 
