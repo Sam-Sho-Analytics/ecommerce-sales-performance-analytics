@@ -15,9 +15,9 @@ Interactive Power BI dashboard analyzing e-commerce sales performance using data
 
 ![Product Analysis](Screenshot/Product_qty.jpg)
 
-### Customer Analysis
+### Total Order across various Categories
 
-![Customer Analysis](images/customer_analysis.png)
+![Total Order](Screenshot/Total_Order.jpg)
 
 # Project Overview
 
