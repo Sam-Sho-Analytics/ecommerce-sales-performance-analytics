@@ -1,4 +1,4 @@
-# ecommerce-sales-performance-analytics
+# Ecommerce-sales-performance-analytics
 Interactive Power BI dashboard analyzing e-commerce sales performance using data modeling, DAX, and KPI reporting to support data-driven business decisions.
 
 ## Dashboard Preview
@@ -25,7 +25,16 @@ This project is an interactive Business Intelligence dashboard designed to analy
 
 # Business Problem
 
-E-commerce businesses generate thousands of sales transactions across multiple products, regions, customer segments, and sales channels. Without effective analytics, it is difficult to identify high-performing products, monitor profitability, understand customer purchasing patterns, and make informed strategic decisions.
+E-commerce businesses generate thousands of sales transactions across multiple products, regions, customer segments, and sales channels.
+
+Without effective analytics, it can be difficult to:
+
+- Identify high-performing products
+- Monitor profitability
+- Understand customer purchasing patterns
+- Evaluate regional performance
+- Identify growth opportunities
+- Make data-driven business decisions
 
 # Solution
 
@@ -63,23 +72,28 @@ Evaluate regional sales performance.
 Analyze customer purchasing behavior.
 Compare category performance.
 Support pricing, inventory, and marketing decisions using real-time insights.
-Tools & Technologies
-Microsoft Power BI
-Power Query
-DAX
-Data Modeling (Star Schema)
-Microsoft Excel
-Data Visualization
-Skills Demonstrated
-Business Intelligence
-Data Cleaning & Transformation
-Data Modeling
-DAX Measures
-KPI Design
-Dashboard Development
-Data Visualization
-Business Analytics
-Performance Reporting
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling — Star Schema
+- Microsoft Excel
+- Data Visualization
+
+## Skills Demonstrated
+
+- Business Intelligence
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Dashboard Development
+- Data Visualization
+- Business Analytics
+- Performance Reporting
+
 # Outcome
 
 The dashboard provides business stakeholders with a comprehensive view of sales performance, enabling faster, data-driven decision-making through interactive reporting and actionable business insights.
