@@ -1,6 +1,24 @@
 # ecommerce-sales-performance-analytics
 Interactive Power BI dashboard analyzing e-commerce sales performance using data modeling, DAX, and KPI reporting to support data-driven business decisions.
 
+## Dashboard Preview
+
+### Sales Performance by Categories
+
+![sales Analysis ](images/Sales_analysis_by_categories)
+
+### Sales Performance
+
+![Sales Analysis](images/sales_analysis.png)
+
+### Product Performance
+
+![Product Analysis](images/product_analysis.png)
+
+### Customer Analysis
+
+![Customer Analysis](images/customer_analysis.png)
+
 # Project Overview
 
 This project is an interactive Business Intelligence dashboard designed to analyze the sales performance of an e-commerce business. It transforms raw transactional data into meaningful insights that help management monitor revenue, profitability, customer behavior, and product performance for data-driven decision-making.
