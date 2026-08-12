@@ -5,7 +5,7 @@ Interactive Power BI dashboard analyzing e-commerce sales performance using data
 
 ### Sales Performance across Categories
 
-![sales Analysis ](Screenshot/sales_analysis_by_categories.jpg)
+![sales Analysis ](Screenshot/sales_analys)
 
 ### Profit Analysis across Categories
 
