@@ -73,6 +73,80 @@ Analyze customer purchasing behavior.
 Compare category performance.
 Support pricing, inventory, and marketing decisions using real-time insights.
 
+#🏗️ Data Modeling
+
+The dataset was transformed into a star schema to improve data organization, analytical performance, and report usability.
+
+Fact Table
+
+FactSales
+
+Contains transactional measures such as:
+
+Sales
+Quantity
+Discount
+Profit
+
+and transactional identifiers including:
+
+Order ID
+Customer ID
+Product ID
+Order Date
+Ship Date
+Location Key
+Dimension Tables
+
+DimDate
+
+Date
+Year
+Quarter
+Month
+Week
+Day
+
+DimCustomer
+
+Customer ID
+Customer Name
+Segment
+
+DimProduct
+
+Product ID
+Product Name
+Category
+Sub-Category
+
+DimLocation
+
+Location Key
+Country/Region
+Region
+State/Province
+City
+Postal Code
+
+DimShipMode
+
+Ship Mode
+
+DimRegionManager
+
+Region
+Regional Manager
+Returns
+
+FactReturns
+
+Order ID
+Return Status
+
+
+
+
 ## Tools & Technologies
 
 - Microsoft Power BI
