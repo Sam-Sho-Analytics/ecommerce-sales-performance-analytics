@@ -73,7 +73,7 @@ Analyze customer purchasing behavior.
 Compare category performance.
 Support pricing, inventory, and marketing decisions using real-time insights.
 
-#🏗️ Data Modeling
+# 🏗️ Data Modeling
 
 The dataset was transformed into a star schema to improve data organization, analytical performance, and report usability.
 
