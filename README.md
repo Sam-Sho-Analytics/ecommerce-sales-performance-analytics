@@ -143,8 +143,7 @@ FactReturns
 
 Order ID
 Return Status
-
-
+![Data Model](Screenshot/data_Model.png)
 
 
 ## Tools & Technologies
